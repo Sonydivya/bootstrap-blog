@@ -17,7 +17,7 @@ This project demonstrates usage of Bootstrap components such as **Navbar, Cards,
 ---
 
 ## 🚀 Live Demo  
-👉 [View on GitHub Pages](https://sonydivya.github.io/bootstrap-blog/)
+👉 [View on GitHub Pages](https://Sonydivya.github.io/bootstrap-blog/)
 
 ---
 
